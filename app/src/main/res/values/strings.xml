@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContactHub</string>
+    <string name="update_con">Update Contact</string>
+    <string name="add_con">Add Contact</string>
+</resources>
